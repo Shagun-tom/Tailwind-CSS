@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Shagun-tom/Tailwind-CSS#readme",
   "dependencies": {
     "@tailwindcss/cli": "^4.3.3",
-    "tailwindcss": "^4.3.3"
+    "@tailwindcss/vite": "^4.3.4",
+    "tailwindcss": "^4.3.4"
   }
 }
