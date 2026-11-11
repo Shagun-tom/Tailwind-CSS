@@ -1,11 +1,7 @@
 @import "tailwindcss";
 
-.img-size{
-    @apply h-6;
+@layer components{
+    .nav-links{
+        @apply text-gray-400 hover:text-black
+    }
 }
-
-.country-img{
-    @apply inline-flex gap-2 items-center w-fit bg-white rounded-2xl m-1  p-2;
-
-}
-
